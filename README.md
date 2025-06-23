@@ -30,10 +30,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Causouzz/Causouzz/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
 
 ###
@@ -57,5 +53,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Causouzz/Causouzz/output/snake.svg" alt="Snake animation" />
 
 ###
